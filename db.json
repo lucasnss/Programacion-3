@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Programando un programita",
+            "author": "By YayoLks",
+            "year": 2024
+        },
+        {
+            "id": 2,
+            "name": "Programando un videojuego",
+            "author": "By YAYOOOO",
+            "year": 2025
+        }
+    ]
+}
